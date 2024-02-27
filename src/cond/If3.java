@@ -14,6 +14,8 @@ public class If3 {
             17세 이상 19세 이하일 경우: "고등학생"
             20세 이상일 경우: "성인" */
     public static void main(String[] args) {
+
+
         int age = 14;
         if (age <= 7) {
             System.out.println("미취학");
@@ -30,6 +32,8 @@ public class If3 {
         if(age >= 20) {
             System.out.println("성인");
         }
+
+
         /* 이 코드는 다음과 같은 단점이 있다.
         불필요한 조건 검사: 이미 조건을 만족해도 불필요한 다음 조건을 계속 검사한다. 예를 들어서 나이가 5살이
         라면 미취학이 이미 출력이 된다. 그런데 나머지 if 문을 통한 조건 검사도 모두 실행해야 한다.
