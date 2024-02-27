@@ -15,15 +15,9 @@ public class While_2 {
             count++;
             System.out.println("현재 숫자는: " + count);
         }
-
-
-
-
-
-        
-
-
-
-
+            /* while (count < 3) : 3보다 작을때까지 진행
+            * count++; 증감
+            * 현재 숫자는: 1~3까지 출력
+            * 가장 기본적인 반복문이다. */
     }
 }
