@@ -24,6 +24,7 @@ public class Switch2 {
 
         /*int grade = 2;
 
+
         int coupon;
         switch (grade) {
             case 1:

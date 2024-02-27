@@ -28,7 +28,6 @@ public class Switch1 {
 
         /*int grade = 2;
 
-
         int coupon;
         if (grade == 1000) {
             coupon = 1000;
