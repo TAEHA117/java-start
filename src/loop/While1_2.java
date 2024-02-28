@@ -1,6 +1,6 @@
 package loop;
 
-public class While_2 {
+public class While1_2 {
     public static void main(String[] args) {
         /* while문
         * 조건에 따라 코드를 반복해서 실행할 때 사용한다.

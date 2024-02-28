@@ -1,6 +1,6 @@
 package loop;
 
-public class While_1 {
+public class While1_1 {
     public static void main(String[] args) {
         /* 반복문 시작
         * 반복문은 이름 그대로 특정 코드를 반복해서 실행할 때 사용한다.
