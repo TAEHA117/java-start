@@ -11,7 +11,7 @@ public class Break1 {
                 System.out.println("합이 10보다 크면 종료: i=" + i + " sum=" + sum);
                 break;
             }
-            i++;
+                i++;
         }
 
     }
