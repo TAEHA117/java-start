@@ -10,7 +10,7 @@ public class Continue1 {
                 continue;
             }
             System.out.println(i);
-            i++;
+                i++;
         }
     }
 }
