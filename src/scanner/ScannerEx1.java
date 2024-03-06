@@ -2,7 +2,7 @@ package scanner;
 
 import java.util.Scanner;
 
-public class ScaneerEx1 {
+public class ScannerEx1 {
     public static void main(String[] args) {
         /* 문제 : 이름 나이 입력받고 출력하기
         * 사용자로부터 입력받은 이름과 나이를 출력하세요.
