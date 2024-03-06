@@ -34,6 +34,7 @@ public class ScannerWhileEx3 {
         while (true) {
             input = sc.nextInt();
             if(input == -1) {
+                System.out.println("계산을 마칩니다.");
                 break;
             }
             sum += input;
@@ -42,6 +43,7 @@ public class ScannerWhileEx3 {
         double average = (double)sum / count;
         System.out.println("입력한 숫자들의 합계 : " + sum);
         System.out.println("입력한 숫자들의 평균 : " + average);
+//        이 로직으로 고리 한번 걸어보기
     }
 
 }
