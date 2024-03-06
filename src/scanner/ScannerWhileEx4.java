@@ -72,7 +72,7 @@ public class ScannerWhileEx4 {
                 System.out.println("올바른 옵션을 선택해주세요.");
             }
             /* 1번 컨택 후 다시 1번을 선택했을 때 2개의 상품이 담긴다는 것
-            * -> 첫 번째 상품이 totalCost에 누적되며 이 후 상품을 추가했을 때
+            * -> 첫 번째 상품이 totalCost 에 누적되며 이 후 상품을 추가했을 때
             * 값이 구해지는 과정을 잘 이해하자
             */
         }
