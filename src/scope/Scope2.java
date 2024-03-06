@@ -10,6 +10,7 @@ public class Scope2 {
 
 //        System.out.println("main i = " + i); // 오류, i에 접근 불가
 //        for문에서 선언된 i는 for문이 끝난 시점으로 외부에서 접근 불가능
+//        System.out.println("main i = " + i); for문 안에 있는 i는 접근 불가능
         System.out.println("main m = " + m); // 접근 가능
     }
 }
