@@ -1,3 +1,5 @@
+package scanner;
+
 import java.util.Scanner;
 public class ScannerWhile2 {
     /* Scanner 반복 예제2
