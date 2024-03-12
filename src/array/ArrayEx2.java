@@ -28,7 +28,7 @@ public class ArrayEx2 {
         System.out.println("출력");
         for (int i=0; i < numbers.length; i++) {
             System.out.print(numbers[i]);
-            if (i < numbers.length -1) {
+            if (i < numbers.length -1) { // 마지막 콤마 없애는 조건
                 System.out.print(", ");
             }
         }
